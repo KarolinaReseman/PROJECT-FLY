@@ -1,0 +1,27 @@
+{
+  "name": "project-fly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolinaReseman/PROJECT-FLY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolinaReseman/PROJECT-FLY/issues"
+  },
+  "homepage": "https://github.com/KarolinaReseman/PROJECT-FLY#readme",
+  "dependencies": {
+    "webpack": "^5.66.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}

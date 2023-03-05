@@ -1,0 +1,22 @@
+{
+  "destination": [
+    {
+      "id": 1,
+      "value": "Cracov",
+      "desc": "Kraków",
+      "code": "krk"
+    },
+    {
+      "id": 2,
+      "value": "paris",
+      "desc": "paryż",
+      "code": "cdg"
+    },
+    {
+      "id": 3,
+      "value": "newjork",
+      "desc": "Nowy York",
+      "code": "jfk"
+    }
+  ]
+}
